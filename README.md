@@ -1,9 +1,9 @@
 # Object detection with acustic feedback
 This repository contains the Unity project for using the motion capture proximity feedback system.
 ## Starting the Unity project
-In order to avoid possible erros, you need to use Unity version 2021.3.15f1
+In order to avoid possible erros, you need to use Unity version <b>2021.3.15f1</b>
 
-Once Unity has opend up the project, go to Assets -> Scenes and double click on "Lab scene" to select the motion capture environment.
+Once Unity has opend up the project, go to <b>Assets -> Scenes</b> and double click on <b>"Lab scene"</b> to select the motion capture environment.
 
 ## Using the system
 In order to use the system you need to include into Unity the real world objects that you want to detect. For doing so, you need to:
