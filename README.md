@@ -20,3 +20,5 @@ If you want to track a person, you need to follow the previous steps, but also a
 - you can remove the collider from the person's gameobject
 
 If you start the scene you should see the the person's gameobject move in the same way as the associated real world person.
+
+*IMPORTANT:* If you want to consider an object as an obstacle, independetly if it is a real or a virtual one, you need to change the Unity gameobject's tag to "obstacle".
